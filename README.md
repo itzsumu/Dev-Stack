@@ -25,3 +25,5 @@ The key prop helps React identify individual items in a list and track changes w
 Conditional rendering means displaying different content based on a condition. For example, Dev Stack displays a loading message while technology data is being fetched.
 ### 7. How do components communicate in React?
 A parent component can pass data and callback functions to child components through props. A child component can call a callback function to request an action from its parent.
+
+##Live Website Link## : dev-stack-jyt299ef9-sumaiya-islam.vercel.app 
